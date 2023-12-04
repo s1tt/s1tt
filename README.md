@@ -23,7 +23,7 @@ Let's create something amazing together! ✨
 
 ## Some Languages and Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> 
 
-<p>
+<p align="center">
   <code><a href="#"><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
   <code><a href="#"><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
   <code><a href="#"><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
