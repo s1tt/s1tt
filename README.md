@@ -1,13 +1,15 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello!+%F0%9F%91%8F;My+name+is+Sergei;I'm+a+frontend+developer;Welcome+to+my+GitHub+profile" alt="Welcome"/>
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello!+%F0%9F%91%8F;My+name+is+Sergei;I'm+a+frontend+developer;Welcome+to+my+GitHub+profile" alt="Welcome"/>
+  </a>
 </p>
 
 [![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/s1tty)
 [![Static Badge](https://img.shields.io/badge/Mail-black?style=for-the-badge&logo=maildotru)](mailto:sergei-alekseev-react@mail.ru)
 
-## About me <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px" height="30px"></img>
+## About me <a href="#"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px" height="30px"></img></a>
 
 🚀 I'm a budding front-end developer, passionately exploring the world of web technologies and crafting creative user interfaces.
 
@@ -21,7 +23,7 @@
 
 Let's create something amazing together! ✨
 
-## Some Languages and Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> 
+## Some Languages and Tools <a href="#"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> </a>
 
 <p align="center">
   <code><a href="#"><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
@@ -37,12 +39,12 @@ Let's create something amazing together! ✨
   <code><a href="#"><img width="15%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></a></code>
 </p>
 
-## About Some Stats <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="30px"> 
+## About Some Stats <a href="#"><img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="30px"></a>
 
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1tt&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=s1tt&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+<a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1tt&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/></a>
+<a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/?username=s1tt&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/></a>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=s1tt&theme=algolia&background=0d1117&hide_border=true" />
+  <a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=s1tt&theme=algolia&background=0d1117&hide_border=true" /></a>
 </div>
